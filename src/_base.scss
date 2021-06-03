@@ -1,0 +1,6 @@
+@for $i from 1 through 12 {
+  .col-#{$i} {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
